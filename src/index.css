@@ -8,3 +8,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(87deg, #0042aa, #008cb4);
 }
+
+button {
+  cursor: pointer;
+}
