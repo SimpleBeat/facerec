@@ -29,9 +29,12 @@ class App extends React.Component {
     super();
     this.state = {
       input: '',
-      imageURL: ''
+      imageURL: '',
+      box: {}
     }
   }
+
+  
 
   onInputChange = (event) => {
     this.setState({ input: event.target.value });
