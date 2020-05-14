@@ -4,8 +4,8 @@ import logo from './logo.png';
 
 const Logo = () => {
     return (
-        <div className="logoImage">
-            <img src={logo} alt='logo' width='140' height='140' />
+        <div className="logoImage center">
+            <img src={logo} alt='logo' width='64' height='64' />
         </div>
     )
 }
