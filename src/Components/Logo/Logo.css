@@ -1,3 +1,10 @@
-.Tilt {
+.logoImage {
     background: linear-gradient(267deg, #0042aa, #008cb4);
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px;
+    padding: 5px;
 }
